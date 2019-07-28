@@ -1,0 +1,7 @@
+Some best practices when using List Comprehensions
+
+1. Use List Comprehension instead of map and filter
+2. Avoid more than two expressions in List Comprehensions
+3. Consider Generator expressions for Large Comprehensions
+4. Prefer enumerate Over range
+5. Use zip to process Iterartors in parallel
